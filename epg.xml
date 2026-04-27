@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv date="20260427">
+<channel id="Rai 1"><display-name lang="it">Rai 1</display-name><icon src="https://api.superguidatv.it/v1/channels/217/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/rai/rai-1/stream.m3u8</url></channel>
+<channel id="Rai 2"><display-name lang="it">Rai 2</display-name><icon src="https://api.superguidatv.it/v1/channels/218/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/rai/rai-2/stream.m3u8</url></channel>
+<channel id="Rai 3"><display-name lang="it">Rai 3</display-name><icon src="https://api.superguidatv.it/v1/channels/219/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/rai/rai-3/stream.m3u8</url></channel>
+<channel id="Rete 4"><display-name lang="it">Rete 4</display-name><icon src="https://api.superguidatv.it/v1/channels/189/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8</url></channel>
+<channel id="Canale 5"><display-name lang="it">Canale 5</display-name><icon src="https://api.superguidatv.it/v1/channels/187/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/canale-5/stream.m3u8</url></channel>
+<channel id="Italia 1"><display-name lang="it">Italia 1</display-name><icon src="https://api.superguidatv.it/v1/channels/188/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8</url></channel>
+<channel id="La7"><display-name lang="it">La7</display-name><icon src="https://api.superguidatv.it/v1/channels/253/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/la7/la7/stream.m3u8</url></channel>
+<channel id="TV8"><display-name lang="it">TV8</display-name><icon src="https://api.superguidatv.it/v1/channels/237/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/sky/tv8/stream.m3u8</url></channel>
+<channel id="Nove"><display-name lang="it">Nove</display-name><icon src="https://api.superguidatv.it/v1/channels/238/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/discovery/nove/stream.m3u8</url></channel>
+<channel id="20"><display-name lang="it">Mediaset 20</display-name><icon src="https://api.superguidatv.it/v1/channels/443/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/20/stream.m3u8</url></channel>
+<channel id="Rai 4"><display-name lang="it">Rai 4</display-name><icon src="https://api.superguidatv.it/v1/channels/220/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/rai/rai-4/stream.m3u8</url></channel>
+<channel id="Iris"><display-name lang="it">Iris</display-name><icon src="https://api.superguidatv.it/v1/channels/192/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/iris/stream.m3u8</url></channel>
+<channel id="Rai 5"><display-name lang="it">Rai 5</display-name><icon src="https://api.superguidatv.it/v1/channels/221/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/rai/rai-5/stream.m3u8</url></channel>
+<channel id="Rai Movie"><display-name lang="it">Rai Movie</display-name><icon src="https://api.superguidatv.it/v1/channels/229/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/rai/rai-movie/stream.m3u8</url></channel>
+<channel id="Cielo"><display-name lang="it">Cielo</display-name><icon src="https://api.superguidatv.it/v1/channels/239/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/sky/cielo/stream.m3u8</url></channel>
+<channel id="Twenty Seven"><display-name lang="it">Twenty Seven</display-name><icon src="https://api.superguidatv.it/v1/channels/601/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/twenty-seven/stream.m3u8</url></channel>
+<channel id="La7d"><display-name lang="it">La7d</display-name><icon src="https://api.superguidatv.it/v1/channels/254/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/la7/la7d/stream.m3u8</url></channel>
+<channel id="La 5"><display-name lang="it">La 5</display-name><icon src="https://api.superguidatv.it/v1/channels/190/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8</url></channel>
+<channel id="Real Time"><display-name lang="it">Real Time</display-name><icon src="https://api.superguidatv.it/v1/channels/255/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/discovery/real-time/stream.m3u8</url></channel>
+<channel id="Cine34"><display-name lang="it">Cine34</display-name><icon src="https://api.superguidatv.it/v1/channels/574/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/cine34/stream.m3u8</url></channel>
+<channel id="Focus"><display-name lang="it">Focus</display-name><icon src="https://api.superguidatv.it/v1/channels/249/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/focus/stream.m3u8</url></channel>
+<channel id="Warner TV"><display-name lang="it">Warner TV</display-name><icon src="https://api.superguidatv.it/v1/channels/1344181813/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/discovery/warner-tv/stream.m3u8</url></channel>
+<channel id="Giallo"><display-name lang="it">Giallo</display-name><icon src="https://api.superguidatv.it/v1/channels/244/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/discovery/giallo/stream.m3u8</url></channel>
+<channel id="Top Crime"><display-name lang="it">Top Crime</display-name><icon src="https://api.superguidatv.it/v1/channels/193/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/top-crime/stream.m3u8</url></channel>
+<channel id="Boing"><display-name lang="it">Boing</display-name><icon src="https://api.superguidatv.it/v1/channels/195/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/boing/stream.m3u8</url></channel>
+<channel id="K2"><display-name lang="it">K2</display-name><icon src="https://api.superguidatv.it/v1/channels/245/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/discovery/k2/stream.m3u8</url></channel>
+<channel id="Frisbee"><display-name lang="it">Frisbee</display-name><icon src="https://api.superguidatv.it/v1/channels/246/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/discovery/frisbee/stream.m3u8</url></channel>
+<channel id="Cartoonito"><display-name lang="it">Cartoonito</display-name><icon src="https://api.superguidatv.it/v1/channels/196/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/cartoonito/stream.m3u8</url></channel>
+<channel id="Italia 2"><display-name lang="it">Italia 2</display-name><icon src="https://api.superguidatv.it/v1/channels/191/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/italia-2/stream.m3u8</url></channel>
+<channel id="Tgcom24"><display-name lang="it">Tgcom 24</display-name><icon src="https://api.superguidatv.it/v1/channels/197/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/tgcom24/stream.m3u8</url></channel>
+<channel id="DMAX"><display-name lang="it">DMAX</display-name><icon src="https://api.superguidatv.it/v1/channels/256/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/discovery/dmax/stream.m3u8</url></channel>
+<channel id="Mediaset Extra"><display-name lang="it">Mediaset Extra</display-name><icon src="https://api.superguidatv.it/v1/channels/194/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/mediaset-extra/stream.m3u8</url></channel>
+<channel id="Radio 105"><display-name lang="it">Radio 105</display-name><icon src="https://api.superguidatv.it/v1/channels/460/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/radio-105/stream.m3u8</url></channel>
+<channel id="R101"><display-name lang="it">Radio 101</display-name><icon src="https://api.superguidatv.it/v1/channels/463/logo?width=120&amp;theme=dark"/><url>https://tvit.leicaflorianrobert.dev/mediaset/r101/stream.m3u8</url></channel>
+<channel id="protv"><display-name lang="it">Pro TV</display-name><icon src="https://cmero-ott-images-avod.ssl.cdn.cra.cz/rx/23daa37d-7b69-41ab-90ab-383cc67f3c05.png?default=b507a3ad-e712-494d-9667-5274d0c05bca"/><url>https://tvit.leicaflorianrobert.dev/protv/protv/stream.m3u8</url></channel>
+<channel id="antena3"><display-name lang="it">Antena 3</display-name><icon src="https://assets.antenaplay.ro/2022/10/24/HUA4X5c2dFIsScrTa0KZ.png"/><url>https://tvit.leicaflorianrobert.dev/antena/antena3/stream.m3u8</url></channel>
+<channel id="antena1"><display-name lang="it">Antena 1</display-name><icon src="https://assets.antenaplay.ro/2022/10/20/6fiwx2Ydv5JBEsCShluH.png"/><url>https://tvit.leicaflorianrobert.dev/antena/antena1/stream.m3u8</url></channel>
+<channel id="comedy-play"><display-name lang="it">Comedy Play</display-name><icon src="https://assets.antenaplay.ro/2023/04/13/AUZDYJFeAKhziBVlUWTK.png"/><url>https://tvit.leicaflorianrobert.dev/antena/comedy-play/stream.m3u8</url></channel>
+<channel id="antena-monden"><display-name lang="it">Antena Monden</display-name><icon src="https://assets.antenaplay.ro/2023/04/13/MrwirFrMppGIcWVNzlGK.png"/><url>https://tvit.leicaflorianrobert.dev/antena/antena-monden/stream.m3u8</url></channel>
+<channel id="Tele Norba"><display-name lang="it">Tele Norba</display-name><icon src="https://portiamovalore.uniba.it/uploads/loghi/Logo%20telenorba_1579780216.png"/><url>https://tvit.leicaflorianrobert.dev/regionali/tele-norba/stream.m3u8</url></channel>
+<programme start="20260427001500" stop="20260427010442" channel="protv"><title lang="it">Sandokan</title><desc lang="it">Episodul 2</desc><category lang="it"></category></programme>
+<programme start="20260427011500" stop="20260427024425" channel="protv"><title lang="it">Ace Ventura 3: Asa tata, asa fiu</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427003000" stop="20260427010000" channel="protv"><title lang="it">Doctor de bine</title><desc lang="it">Ediția 11</desc><category lang="it"></category></programme>
+<programme start="20260427010000" stop="20260427023000" channel="protv"><title lang="it">Ace Ventura 3: Asa tata, asa fiu</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427023000" stop="20260427031500" channel="protv"><title lang="it">Romania, te iubesc!</title><desc lang="it">Războiul dronelor</desc><category lang="it"></category></programme>
+<programme start="20260427031500" stop="20260427040000" channel="protv"><title lang="it">Batem Palma</title><desc lang="it">Sezonul 5, Episodul 92</desc><category lang="it"></category></programme>
+<programme start="20260427035700" stop="20260427072700" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260427083000" stop="20260427101500" channel="protv"><title lang="it">Vorbește Lumea</title><desc lang="it">Vorbeste lumea</desc><category lang="it"></category></programme>
+<programme start="20260427110000" stop="20260427114500" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260427120000" stop="20260427124653" channel="protv"><title lang="it">La marginea lumii</title><desc lang="it">Episodul 55</desc><category lang="it"></category></programme>
+<programme start="20260427130000" stop="20260427134502" channel="protv"><title lang="it">Leyla</title><desc lang="it">Episodul 55</desc><category lang="it"></category></programme>
+<programme start="20260427140000" stop="20260427144337" channel="protv"><title lang="it">Lecții de viață</title><desc lang="it">EP52 - Doi frații și o mamă</desc><category lang="it"></category></programme>
+<programme start="20260427150000" stop="20260427154500" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260427160000" stop="20260427164015" channel="protv"><title lang="it">Batem Palma</title><desc lang="it">Sezonul 5, Episodul 93</desc><category lang="it"></category></programme>
+<programme start="20260427170000" stop="20260427174500" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260427180000" stop="20260427181500" channel="protv"><title lang="it">Stirile Sportive</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427182500" stop="20260427183000" channel="protv"><title lang="it">Vremea</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427183000" stop="20260427213000" channel="protv"><title lang="it">Desafio: Aventura</title><desc lang="it">Episodul 33</desc><category lang="it"></category></programme>
+<programme start="20260427213000" stop="20260427220000" channel="protv"><title lang="it">Stirile PRO TV</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427220000" stop="20260427233439" channel="protv"><title lang="it">Cod roșu la Londra</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428000000" stop="20260428004337" channel="protv"><title lang="it">Lecții de viață</title><desc lang="it">EP52 - Doi frații și o mamă</desc><category lang="it"></category></programme>
+<programme start="20260428010000" stop="20260428024500" channel="protv"><title lang="it">Vorbește Lumea</title><desc lang="it">Vorbeste lumea</desc><category lang="it"></category></programme>
+<programme start="20260427040000" stop="20260427083000" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260427083000" stop="20260427110000" channel="protv"><title lang="it">Vorbește Lumea</title><desc lang="it">Vorbeste lumea</desc><category lang="it"></category></programme>
+<programme start="20260427110000" stop="20260427120000" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260427120000" stop="20260427130000" channel="protv"><title lang="it">La marginea lumii</title><desc lang="it">Episodul 55</desc><category lang="it"></category></programme>
+<programme start="20260427130000" stop="20260427140000" channel="protv"><title lang="it">Leyla</title><desc lang="it">Episodul 55</desc><category lang="it"></category></programme>
+<programme start="20260427140000" stop="20260427150000" channel="protv"><title lang="it">Lecții de viață</title><desc lang="it">EP52 - Doi frații și o mamă</desc><category lang="it"></category></programme>
+<programme start="20260427150000" stop="20260427160000" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260427160000" stop="20260427170000" channel="protv"><title lang="it">Batem Palma</title><desc lang="it">Sezonul 5, Episodul 93</desc><category lang="it"></category></programme>
+<programme start="20260427183000" stop="20260427183000" channel="protv"><title lang="it">Vremea</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427220000" stop="20260428000000" channel="protv"><title lang="it">Cod roșu la Londra</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428000000" stop="20260428004500" channel="protv"><title lang="it">Lecții de viață</title><desc lang="it">EP52 - Doi frații și o mamă</desc><category lang="it"></category></programme>
+<programme start="20260428004500" stop="20260428010000" channel="protv"><title lang="it">Umami: al 5-lea gust</title><desc lang="it">Ediția 11</desc><category lang="it"></category></programme>
+<programme start="20260428010000" stop="20260428031500" channel="protv"><title lang="it">Vorbește Lumea</title><desc lang="it">Vorbeste lumea</desc><category lang="it"></category></programme>
+<programme start="20260428031500" stop="20260428040000" channel="protv"><title lang="it">Batem Palma</title><desc lang="it">Sezonul 5, Episodul 93</desc><category lang="it"></category></programme>
+<programme start="20260428035700" stop="20260428072700" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260428083000" stop="20260428101500" channel="protv"><title lang="it">Vorbește Lumea</title><desc lang="it">Vorbeste lumea</desc><category lang="it"></category></programme>
+<programme start="20260428110000" stop="20260428114500" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260428120000" stop="20260428124401" channel="protv"><title lang="it">La marginea lumii</title><desc lang="it">Episodul 56</desc><category lang="it"></category></programme>
+<programme start="20260428130000" stop="20260428134547" channel="protv"><title lang="it">Leyla</title><desc lang="it">Episodul 56</desc><category lang="it"></category></programme>
+<programme start="20260428140000" stop="20260428144308" channel="protv"><title lang="it">Lecții de viață</title><desc lang="it">Episodul 49 - O dragoste și multe interese (partea I)</desc><category lang="it"></category></programme>
+<programme start="20260428150000" stop="20260428154500" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260428160000" stop="20260428164030" channel="protv"><title lang="it">Batem Palma</title><desc lang="it">Sezonul 5, Episodul 94</desc><category lang="it"></category></programme>
+<programme start="20260428170000" stop="20260428174500" channel="protv"><title lang="it">Știrile PRO TV</title><desc lang="it">Stirile PRO TV</desc><category lang="it"></category></programme>
+<programme start="20260428180000" stop="20260428181500" channel="protv"><title lang="it">Stirile Sportive</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428182500" stop="20260428183000" channel="protv"><title lang="it">Vremea</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428183000" stop="20260428213000" channel="protv"><title lang="it">Desafio: Aventura</title><desc lang="it">DESAFIO: AVENTURA</desc><category lang="it"></category></programme>
+<programme start="20260428213000" stop="20260428220000" channel="protv"><title lang="it">Stirile PRO TV</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428220000" stop="20260428235558" channel="protv"><title lang="it">Robin Hood: Începuturi</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429001500" stop="20260429005809" channel="protv"><title lang="it">Lecții de viață</title><desc lang="it">Episodul 49 - O dragoste și multe interese (partea I)</desc><category lang="it"></category></programme>
+<programme start="20260429010000" stop="20260429024500" channel="protv"><title lang="it">Vorbește Lumea</title><desc lang="it">Vorbeste lumea</desc><category lang="it"></category></programme>
+<programme start="20260427010000" stop="20260427020000" channel="antena3"><title lang="it">Ediție specială (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427020000" stop="20260427033000" channel="antena3"><title lang="it">De-a viata ascunselea (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427033000" stop="20260427040000" channel="antena3"><title lang="it">Știri ora 18:00 (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427040000" stop="20260427060000" channel="antena3"><title lang="it">Știri ora 06:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427060000" stop="20260427074500" channel="antena3"><title lang="it">Știrile dimineții</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427074500" stop="20260427080000" channel="antena3"><title lang="it">Teleshopping</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427080000" stop="20260427090000" channel="antena3"><title lang="it">Știri ora 10:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427090000" stop="20260427100000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427100000" stop="20260427110000" channel="antena3"><title lang="it">Știri ora 12:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427110000" stop="20260427120000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427120000" stop="20260427130000" channel="antena3"><title lang="it">Știri ora 14:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427130000" stop="20260427140000" channel="antena3"><title lang="it">Decisiv</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427140000" stop="20260427170000" channel="antena3"><title lang="it">Editie speciala</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427170000" stop="20260427190000" channel="antena3"><title lang="it">Decisiv Prime Time</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427190000" stop="20260427213000" channel="antena3"><title lang="it">Sinteza Zilei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427213000" stop="20260427223000" channel="antena3"><title lang="it">În gura presei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427223000" stop="20260427230000" channel="antena3"><title lang="it">Știri ora 24:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427230000" stop="20260428000000" channel="antena3"><title lang="it">Știri ora 01:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428000000" stop="20260428013000" channel="antena3"><title lang="it">Ediție Specială (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428013000" stop="20260428020000" channel="antena3"><title lang="it">Ediție Specială (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428020000" stop="20260428030000" channel="antena3"><title lang="it">In gura presei (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428030000" stop="20260428040000" channel="antena3"><title lang="it">News Hour with CNN (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428040000" stop="20260428054500" channel="antena3"><title lang="it">Știri ora 06:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428054500" stop="20260428060000" channel="antena3"><title lang="it">Teleshopping</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428060000" stop="20260428074500" channel="antena3"><title lang="it">Știrile dimineții</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428074500" stop="20260428080000" channel="antena3"><title lang="it">Teleshopping</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428080000" stop="20260428090000" channel="antena3"><title lang="it">Știri ora 10:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428090000" stop="20260428100000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428100000" stop="20260428110000" channel="antena3"><title lang="it">Știri ora 12:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428110000" stop="20260428120000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428120000" stop="20260428130000" channel="antena3"><title lang="it">Știri ora 14:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428130000" stop="20260428140000" channel="antena3"><title lang="it">Decisiv</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428140000" stop="20260428150000" channel="antena3"><title lang="it">Știri ora 16:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428150000" stop="20260428160000" channel="antena3"><title lang="it">România 360</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428160000" stop="20260428170000" channel="antena3"><title lang="it">News Hour with CNN</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428170000" stop="20260428190000" channel="antena3"><title lang="it">Decisiv Prime Time</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428190000" stop="20260428213000" channel="antena3"><title lang="it">Sinteza Zilei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428213000" stop="20260428223000" channel="antena3"><title lang="it">În gura presei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428223000" stop="20260428230000" channel="antena3"><title lang="it">Știri ora 24:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428230000" stop="20260429000000" channel="antena3"><title lang="it">Știri ora 01:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429000000" stop="20260429020000" channel="antena3"><title lang="it">Sinteza Zilei (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429020000" stop="20260429030000" channel="antena3"><title lang="it">In gura presei (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429030000" stop="20260429040000" channel="antena3"><title lang="it">News Hour with CNN (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429040000" stop="20260429054500" channel="antena3"><title lang="it">Știri ora 06:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429054500" stop="20260429060000" channel="antena3"><title lang="it">Teleshopping</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429060000" stop="20260429074500" channel="antena3"><title lang="it">Știrile dimineții</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429074500" stop="20260429080000" channel="antena3"><title lang="it">Teleshopping</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429080000" stop="20260429090000" channel="antena3"><title lang="it">Știri ora 10:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429090000" stop="20260429100000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429100000" stop="20260429110000" channel="antena3"><title lang="it">Știri ora 12:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429110000" stop="20260429120000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429120000" stop="20260429130000" channel="antena3"><title lang="it">Știri ora 14:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429130000" stop="20260429140000" channel="antena3"><title lang="it">Decisiv</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429140000" stop="20260429150000" channel="antena3"><title lang="it">Știri ora 16:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429150000" stop="20260429160000" channel="antena3"><title lang="it">România 360</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429160000" stop="20260429170000" channel="antena3"><title lang="it">News Hour with CNN</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429170000" stop="20260429190000" channel="antena3"><title lang="it">Decisiv Prime Time</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429190000" stop="20260429213000" channel="antena3"><title lang="it">Sinteza Zilei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429213000" stop="20260429223000" channel="antena3"><title lang="it">În gura presei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429223000" stop="20260429230000" channel="antena3"><title lang="it">Știri ora 24:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429230000" stop="20260430000000" channel="antena3"><title lang="it">Știri ora 01:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430000000" stop="20260430020000" channel="antena3"><title lang="it">Sinteza Zilei (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430020000" stop="20260430030000" channel="antena3"><title lang="it">In gura presei (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430030000" stop="20260430040000" channel="antena3"><title lang="it">News Hour with CNN (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430040000" stop="20260430054500" channel="antena3"><title lang="it">Știri ora 06:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430054500" stop="20260430060000" channel="antena3"><title lang="it">Teleshopping</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430060000" stop="20260430074500" channel="antena3"><title lang="it">Știrile dimineții</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430074500" stop="20260430080000" channel="antena3"><title lang="it">Teleshopping</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430080000" stop="20260430090000" channel="antena3"><title lang="it">Știri ora 10:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430090000" stop="20260430100000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430100000" stop="20260430110000" channel="antena3"><title lang="it">Știri ora 12:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430110000" stop="20260430120000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430120000" stop="20260430130000" channel="antena3"><title lang="it">Știri ora 14:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430130000" stop="20260430140000" channel="antena3"><title lang="it">Decisiv</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430140000" stop="20260430150000" channel="antena3"><title lang="it">Știri ora 16:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430150000" stop="20260430160000" channel="antena3"><title lang="it">România 360</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430160000" stop="20260430170000" channel="antena3"><title lang="it">News Hour with CNN</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430170000" stop="20260430190000" channel="antena3"><title lang="it">Decisiv Prime Time</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430190000" stop="20260430213000" channel="antena3"><title lang="it">Sinteza Zilei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430213000" stop="20260430223000" channel="antena3"><title lang="it">În gura presei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430223000" stop="20260430230000" channel="antena3"><title lang="it">Știri ora 24:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430230000" stop="20260501000000" channel="antena3"><title lang="it">Știri ora 01:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501000000" stop="20260501020000" channel="antena3"><title lang="it">Sinteza Zilei (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501020000" stop="20260501030000" channel="antena3"><title lang="it">In gura presei (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501030000" stop="20260501040000" channel="antena3"><title lang="it">News Hour with CNN (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501040000" stop="20260501054500" channel="antena3"><title lang="it">Știri ora 06:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501054500" stop="20260501060000" channel="antena3"><title lang="it">Teleshopping</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501060000" stop="20260501074500" channel="antena3"><title lang="it">Știrile dimineții</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501074500" stop="20260501080000" channel="antena3"><title lang="it">Teleshopping</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501080000" stop="20260501090000" channel="antena3"><title lang="it">Știri ora 10:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501090000" stop="20260501100000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501100000" stop="20260501110000" channel="antena3"><title lang="it">Știri ora 12:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501110000" stop="20260501120000" channel="antena3"><title lang="it">Newsroom</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501120000" stop="20260501130000" channel="antena3"><title lang="it">Știri ora 14:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501130000" stop="20260501140000" channel="antena3"><title lang="it">Decisiv</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501140000" stop="20260501143000" channel="antena3"><title lang="it">Știri ora 16:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501143000" stop="20260501150000" channel="antena3"><title lang="it">România inteligentă</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501150000" stop="20260501160000" channel="antena3"><title lang="it">România 360</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501160000" stop="20260501170000" channel="antena3"><title lang="it">News Hour with CNN</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501170000" stop="20260501190000" channel="antena3"><title lang="it">Decisiv Prime Time</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501190000" stop="20260501210000" channel="antena3"><title lang="it">Exces de putere</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501210000" stop="20260501220000" channel="antena3"><title lang="it">Știri ora 23:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501220000" stop="20260501230000" channel="antena3"><title lang="it">Stiri ora 24:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501230000" stop="20260502013000" channel="antena3"><title lang="it">Editie speciala (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502013000" stop="20260502030000" channel="antena3"><title lang="it">Exces de putere (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502030000" stop="20260502040000" channel="antena3"><title lang="it">News Hour with CNN (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502040000" stop="20260502063000" channel="antena3"><title lang="it">Știrile dimineții</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502063000" stop="20260502070000" channel="antena3"><title lang="it">Agricool</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502070000" stop="20260502073000" channel="antena3"><title lang="it">Știrile dimineții</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502073000" stop="20260502080000" channel="antena3"><title lang="it">Be EU</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502080000" stop="20260502090000" channel="antena3"><title lang="it">Income Magazine</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502090000" stop="20260502100000" channel="antena3"><title lang="it">News Magazine</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502100000" stop="20260502110000" channel="antena3"><title lang="it">Știri ora 12:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502110000" stop="20260502120000" channel="antena3"><title lang="it">News Magazine</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502120000" stop="20260502130000" channel="antena3"><title lang="it">Știri ora 14:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502130000" stop="20260502133000" channel="antena3"><title lang="it">News Magazine</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502133000" stop="20260502140000" channel="antena3"><title lang="it">De-a viața ascunselea</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502140000" stop="20260502150000" channel="antena3"><title lang="it">Știri ora 16:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502150000" stop="20260502160000" channel="antena3"><title lang="it">News Magazine</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502160000" stop="20260502170000" channel="antena3"><title lang="it">Știri ora 18:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502170000" stop="20260502190000" channel="antena3"><title lang="it">Zona Zero</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502190000" stop="20260502210000" channel="antena3"><title lang="it">Descoperiti</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502210000" stop="20260425230224" channel="antena3"><title lang="it">Stiri ora 23:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502210000" stop="20260502220000" channel="antena3"><title lang="it">Stiri ora 23:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502220000" stop="20260502230000" channel="antena3"><title lang="it">Știri ora 24:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502230000" stop="20260503003000" channel="antena3"><title lang="it">Zona Zero (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503003000" stop="20260503013000" channel="antena3"><title lang="it">Be EU (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503013000" stop="20260503030000" channel="antena3"><title lang="it">Descoperiti (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503030000" stop="20260503033000" channel="antena3"><title lang="it">Agricool (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503033000" stop="20260503040000" channel="antena3"><title lang="it">Stiri ora 18:00 (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503040000" stop="20260503080000" channel="antena3"><title lang="it">Știrile dimineții</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503080000" stop="20260503090000" channel="antena3"><title lang="it">Știri ora 10:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503090000" stop="20260503093000" channel="antena3"><title lang="it">Știri ora 11:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503093000" stop="20260503100000" channel="antena3"><title lang="it">Numai de bine</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503100000" stop="20260503110000" channel="antena3"><title lang="it">Știri ora 12:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503110000" stop="20260503120000" channel="antena3"><title lang="it">News Magazine</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503120000" stop="20260503130000" channel="antena3"><title lang="it">Știri ora 14:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503130000" stop="20260503133000" channel="antena3"><title lang="it">News Magazine</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503133000" stop="20260503140000" channel="antena3"><title lang="it">De-a viața ascunselea</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503140000" stop="20260503150000" channel="antena3"><title lang="it">Știri ora 16:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503150000" stop="20260503160000" channel="antena3"><title lang="it">News Magazine</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503160000" stop="20260503170000" channel="antena3"><title lang="it">Știri ora 18:00</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503170000" stop="20260503180000" channel="antena3"><title lang="it">Descoperiți</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503180000" stop="20260503190000" channel="antena3"><title lang="it">Ora de Foc</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503190000" stop="20260503210000" channel="antena3"><title lang="it">Subiectiv</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503210000" stop="20260426230205" channel="antena3"><title lang="it">În gura presei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427003000" stop="20260427020000" channel="antena1"><title lang="it">Baieti de oras (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427020000" stop="20260427040000" channel="antena1"><title lang="it">Pretul cel bun (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427040000" stop="20260427060000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427060000" stop="20260427100000" channel="antena1"><title lang="it">Neatza cu Răzvan și Dani</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427100000" stop="20260427120000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427120000" stop="20260427140000" channel="antena1"><title lang="it">Mireasa</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427140000" stop="20260427150000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427150000" stop="20260427170000" channel="antena1"><title lang="it">Furnicuțele</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427170000" stop="20260427183000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427183000" stop="20260427215900" channel="antena1"><title lang="it">Chefi la cuțite | Sezonul 17</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427215900" stop="20260420230125" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427215900" stop="20260427224500" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427224500" stop="20260428013000" channel="antena1"><title lang="it">Destine cu parfum de lavandă (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428013000" stop="20260428021500" channel="antena1"><title lang="it">Hello Chef (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428021500" stop="20260428040000" channel="antena1"><title lang="it">Furnicuțele (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428040000" stop="20260428060000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428060000" stop="20260428100000" channel="antena1"><title lang="it">Neatza cu Răzvan și Dani</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428100000" stop="20260428120000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428120000" stop="20260428140000" channel="antena1"><title lang="it">Mireasa</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428140000" stop="20260428150000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428150000" stop="20260428170000" channel="antena1"><title lang="it">Furnicuțele</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428170000" stop="20260428183000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428183000" stop="20260428215900" channel="antena1"><title lang="it">Chefi la cutite</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428215900" stop="20260421230125" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428215900" stop="20260428224500" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428224500" stop="20260429013000" channel="antena1"><title lang="it">Survivor (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429013000" stop="20260429021500" channel="antena1"><title lang="it">Hello Chef (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429021500" stop="20260429040000" channel="antena1"><title lang="it">Furnicuțele (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429040000" stop="20260429060000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429060000" stop="20260429100000" channel="antena1"><title lang="it">Neatza cu Răzvan și Dani</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429100000" stop="20260429120000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429120000" stop="20260429140000" channel="antena1"><title lang="it">Mireasa</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429140000" stop="20260429150000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429150000" stop="20260429170000" channel="antena1"><title lang="it">Furnicuțele</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429170000" stop="20260429183000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429183000" stop="20260429215900" channel="antena1"><title lang="it">Chefi la cuțite | Sezonul 17</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429215900" stop="20260422230130" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429215900" stop="20260429224500" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260429224500" stop="20260430013000" channel="antena1"><title lang="it">Survivor (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430013000" stop="20260430021500" channel="antena1"><title lang="it">Hello Chef (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430021500" stop="20260430040000" channel="antena1"><title lang="it">Furnicuțele (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430040000" stop="20260430060000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430060000" stop="20260430100000" channel="antena1"><title lang="it">Neatza cu Răzvan și Dani</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430100000" stop="20260430120000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430120000" stop="20260430140000" channel="antena1"><title lang="it">Mireasa</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430140000" stop="20260430150000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430150000" stop="20260430170000" channel="antena1"><title lang="it">Furnicuțele</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430170000" stop="20260430183000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430183000" stop="20260430213000" channel="antena1"><title lang="it">Destine cu parfum de lavandă</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430213000" stop="20260423230123" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430213000" stop="20260430221500" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260430221500" stop="20260501013000" channel="antena1"><title lang="it">Survivor (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501013000" stop="20260501021500" channel="antena1"><title lang="it">Hello Chef (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501021500" stop="20260501040000" channel="antena1"><title lang="it">Furnicuțele (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501040000" stop="20260501060000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501060000" stop="20260501100000" channel="antena1"><title lang="it">Neatza cu Răzvan și Dani</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501100000" stop="20260501120000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501120000" stop="20260501140000" channel="antena1"><title lang="it">Mireasa</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501140000" stop="20260501150000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501150000" stop="20260501170000" channel="antena1"><title lang="it">Furnicuțele</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501170000" stop="20260501183000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501183000" stop="20260501213000" channel="antena1"><title lang="it">Survivor</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501213000" stop="20260424230126" channel="antena1"><title lang="it">Chefi la cuțite (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260501213000" stop="20260502010000" channel="antena1"><title lang="it">Chefi la cuțite (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502010000" stop="20260502013000" channel="antena1"><title lang="it">Baieti de oras</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502013000" stop="20260502021500" channel="antena1"><title lang="it">Hello Chef (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502021500" stop="20260502035700" channel="antena1"><title lang="it">Furnicuțele (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502035700" stop="20260502070000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502070000" stop="20260502100000" channel="antena1"><title lang="it">Destine cu parfum de lavandă (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502100000" stop="20260502121500" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502121500" stop="20260502131500" channel="antena1"><title lang="it">Hello Chef</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502131500" stop="20260502170000" channel="antena1"><title lang="it">Chefi la cutite (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502170000" stop="20260502180000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502180000" stop="20260502215900" channel="antena1"><title lang="it">Survivor</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502215900" stop="20260425230134" channel="antena1"><title lang="it">Film: Regele scorpion</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260502215900" stop="20260503000000" channel="antena1"><title lang="it">Film: Regele scorpion</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503000000" stop="20260503020000" channel="antena1"><title lang="it">Film: Ultimul playlist cu sunete</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503020000" stop="20260503035700" channel="antena1"><title lang="it">Pretul cel bun (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503035700" stop="20260503070000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503070000" stop="20260503110000" channel="antena1"><title lang="it">Neatza de weekend</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503110000" stop="20260503131500" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503131500" stop="20260503170000" channel="antena1"><title lang="it">Chefi la cutite (r)</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503170000" stop="20260503180000" channel="antena1"><title lang="it">Observator</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503180000" stop="20260503205000" channel="antena1"><title lang="it">Survivor</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260503205000" stop="20260426230121" channel="antena1"><title lang="it">Formula 1: Marele Premiu de la Miami</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427015500" stop="20260427015600" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427015600" stop="20260427030000" channel="comedy-play"><title lang="it">iUmor | Sezonul 15: Catalin Bordea</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427030000" stop="20260427030200" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427030200" stop="20260427031900" channel="comedy-play"><title lang="it">Roata Vedetelor | Sezonul 2 - Episodul 10 | Mara Oprea</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427031900" stop="20260427032100" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427032100" stop="20260427033200" channel="comedy-play"><title lang="it">Secvențe nedifuzate la TV - iComedy, ediția 6</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427033200" stop="20260425230324" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427033200" stop="20260427033400" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427033400" stop="20260427040000" channel="comedy-play"><title lang="it">Roata Vedetelor | Sezon Special - Episodul 2 | Florin Ristei</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427040000" stop="20260427041900" channel="comedy-play"><title lang="it">Roata Vedetelor | Sezonul 3 - Episodul 3 | DIANA SAR</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427041900" stop="20260427042100" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427042100" stop="20260427045800" channel="comedy-play"><title lang="it">Băieți de Oraș | Sezonul 2 - Episodul 9</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427045800" stop="20260427050000" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427050000" stop="20260427065200" channel="comedy-play"><title lang="it">Stand-Up Revolution | Sezonul 2: Episodul 13</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427065200" stop="20260427065400" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427065400" stop="20260427090400" channel="comedy-play"><title lang="it">iUmor - Sezonul 6 - Episodul 3</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427090400" stop="20260427090600" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427090600" stop="20260427092000" channel="comedy-play"><title lang="it">Roata Vedetelor - Episodul 6 | Adda</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427092000" stop="20260427092200" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427092200" stop="20260427105000" channel="comedy-play"><title lang="it">iComedy - ediția 6</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427105000" stop="20260427105200" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427105200" stop="20260427111100" channel="comedy-play"><title lang="it">Roata Vedetelor | Sezonul 3 - Episodul 1 | SORE</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427111100" stop="20260427111300" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427111300" stop="20260427115700" channel="comedy-play"><title lang="it">Băieți de Oraș | Sezonul 2 - Episodul 1</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427115700" stop="20260427115900" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427115900" stop="20260427135200" channel="comedy-play"><title lang="it">Stand-Up Revolution | Sezonul 2 - Episodul 1</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427135200" stop="20260427135400" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427135400" stop="20260427155900" channel="comedy-play"><title lang="it">iUmor - Sezonul 6 - Episodul 9 - Necenzurat</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427155900" stop="20260427160100" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427160100" stop="20260427162600" channel="comedy-play"><title lang="it">Roata Vedetelor | Sezonul 5 - Episodul 2 | Geanina Ilieș</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427162600" stop="20260427162800" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427162800" stop="20260427175300" channel="comedy-play"><title lang="it">iComedy - ediția 4</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427175300" stop="20260427175500" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427175500" stop="20260427182300" channel="comedy-play"><title lang="it">Roata Vedetelor | Sezonul 5 - Episodul 8 | Radu Bucălae</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427182300" stop="20260427182500" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427182500" stop="20260427191200" channel="comedy-play"><title lang="it">Băieți de Oraș | Sezonul 3 - Episodul 1</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427191200" stop="20260427191400" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427191400" stop="20260427212200" channel="comedy-play"><title lang="it">Stand-Up Revolution | Sezonul 2 - Episodul 8</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427212200" stop="20260427212400" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427212400" stop="20260427233300" channel="comedy-play"><title lang="it">RoastOf iUmor</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427233300" stop="20260427233500" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427233500" stop="20260427234800" channel="comedy-play"><title lang="it">Roata Vedetelor | Sezon Special - Episodul 1 | Radu Vâlcan</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427234800" stop="20260427235000" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427235000" stop="20260428011400" channel="comedy-play"><title lang="it">iComedy - ediția 2</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428011400" stop="20260428011600" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428011600" stop="20260428013000" channel="comedy-play"><title lang="it">Roata Vedetelor - Episodul 1 | Oana Moşneagu</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428013000" stop="20260428013200" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428013200" stop="20260428015500" channel="comedy-play"><title lang="it">Băieți de Oraș | Sezonul 1: Episodul 3</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428015500" stop="20260426230258" channel="comedy-play"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427000900" stop="20260427001100" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427001100" stop="20260427022500" channel="antena-monden"><title lang="it">Petrecem românește | Episodul 25</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427022500" stop="20260427022700" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427022700" stop="20260427031500" channel="antena-monden"><title lang="it">Viaţa fără filtru</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427031500" stop="20260427032000" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427032000" stop="20260427034200" channel="antena-monden"><title lang="it">Vacanță de vedetă | Sezonul 3 - Episodul 1</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427034200" stop="20260425230337" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427034200" stop="20260427040000" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427040000" stop="20260427044300" channel="antena-monden"><title lang="it">Lumea nevăzută</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427044300" stop="20260427044500" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427044500" stop="20260427063100" channel="antena-monden"><title lang="it">Petrecem românește | Episodul 47</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427063100" stop="20260427063300" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427063300" stop="20260427082300" channel="antena-monden"><title lang="it">Viața fără filtru</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427082300" stop="20260427082500" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427082500" stop="20260427101700" channel="antena-monden"><title lang="it">Petrecem în familie | Sezonul 4 - Episodul 18</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427101700" stop="20260427101900" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427101900" stop="20260427110400" channel="antena-monden"><title lang="it">Visul Românesc - Succes în America | Sezonul 3 - Episodul 4</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427110400" stop="20260427110600" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427110600" stop="20260427115100" channel="antena-monden"><title lang="it">Vacanță de vedetă | Sezonul 3 - Episodul 14</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427115100" stop="20260427115200" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427115200" stop="20260427132900" channel="antena-monden"><title lang="it">În culisele celebrității | Sezonul 3 - Episodul 1</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427132900" stop="20260427133100" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427133100" stop="20260427141700" channel="antena-monden"><title lang="it">Lumea nevăzută</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427141700" stop="20260427141900" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427141900" stop="20260427163300" channel="antena-monden"><title lang="it">Petrecem românește | Episodul 25</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427163300" stop="20260427163400" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427163400" stop="20260427183000" channel="antena-monden"><title lang="it">Viața fără filtru</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427183000" stop="20260427183200" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427183200" stop="20260427202400" channel="antena-monden"><title lang="it">Petrecem în familie | Sezonul 4 - Episodul 4</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427202400" stop="20260427202600" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427202600" stop="20260427211000" channel="antena-monden"><title lang="it">Visul Românesc - Succes american | Sezonul 2 - Episodul 7</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427211000" stop="20260427211200" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427211200" stop="20260427215700" channel="antena-monden"><title lang="it">Vacanță de vedetă | Episodul 5</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427215700" stop="20260427215800" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427215800" stop="20260427233000" channel="antena-monden"><title lang="it">În culisele celebrității | Episodul 1</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427233000" stop="20260427233100" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260427233100" stop="20260428001400" channel="antena-monden"><title lang="it">Lumea nevazută</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428001400" stop="20260428001600" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428001600" stop="20260428022500" channel="antena-monden"><title lang="it">Petrecem românește | Episodul 33</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428022500" stop="20260428022700" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428022700" stop="20260428032600" channel="antena-monden"><title lang="it">Viața fără filtru</title><desc lang="it">-</desc><category lang="it"></category></programme>
+<programme start="20260428032600" stop="20260426230327" channel="antena-monden"><title lang="it">Promo</title><desc lang="it">-</desc><category lang="it"></category></programme></tv>
