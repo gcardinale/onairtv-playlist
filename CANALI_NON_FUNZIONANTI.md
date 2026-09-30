@@ -2,31 +2,21 @@
 
 Canali lasciati in lista.m3u; nessuno rimosso.
 
-## Bloccato (403/451) - probabile OK nei player (10)
+## Bloccato (403/451) - probabile OK nei player (3)
 
 - EQUtv [403] https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
-- Italia 8 Prestige [403] https://5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8
-- Rai 4 [403] https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
-- Rai 5 [403] https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-- Rai Gulp [403] https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5
-- Rai Movie [403] https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 - Rai Radio 2 Visual Radio [403] https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
-- Rai Sport [403] https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
-- Rai YoYo [403] https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 - Tremedia Tv [403] https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
 
-## Timeout (28)
+## Timeout (23)
 
 - Canale 74 Sicilia [ConnectTimeout] https://stream.cp.ets-sistemi.it:1936/canale74/canale74/playlist.m3u8
 - FM Tv Marche [ConnectTimeout] https://bbtv.intvstream.net:3988/hybrid/play.m3u8
-- GarganoTv [ConnectTimeout] https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
 - La7cinema [ReadTimeout] https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 - Matrix Tv [ConnectTimeout] https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8
 - Medjugorje Italia Tv [ConnectTimeout] https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 - PrimaFREE [ConnectTimeout] https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
-- Primantenna Torino [ConnectTimeout] https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 - RTM Manduria [ConnectTimeout] https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
-- Rei Tv [ConnectTimeout] https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
 - ST Europe Channel [ConnectTimeout] https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 - Sicilia 24 Tv [ConnectTimeout] https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 - TLT Molise [ConnectTimeout] https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
@@ -34,19 +24,17 @@ Canali lasciati in lista.m3u; nessuno rimosso.
 - TeleAmbiente [ConnectTimeout] https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
 - TeleRegione Color [ConnectTimeout] https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
 - TeleRegione Live [ConnectTimeout] https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8
-- Telecampione [ConnectTimeout] https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
 - Telecittà Padova [ConnectTimeout] https://tango.wifi4all.it/telecitta/telecitta.m3u8
 - Telenova [ConnectTimeout] https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 - Telereporter [ConnectTimeout] https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
 - Telesud Trapani [ConnectTimeout] https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8
 - Televallo Trapani [ConnectTimeout] https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
-- Tvr Xenon [ConnectTimeout] https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8
 - Uno4 Tv [ConnectTimeout] https://cdn.uno4.it/index.m3u8
 - Vintage Radio Tv [ConnectTimeout] https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 - Zerouno Tv Music [ConnectTimeout] https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 - Zerouno Tv News [ConnectTimeout] https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 
-## Host non risolvibile / connessione rifiutata / SSL (86)
+## Host non risolvibile / connessione rifiutata / SSL (82)
 
 - BBC Doctor Who [ConnectionError] https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
 - BBC Drama (1) [ConnectionError] https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
@@ -58,9 +46,7 @@ Canali lasciati in lista.m3u; nessuno rimosso.
 - Classico – Rakuten TV [ConnectionError] https://rakuten-classico-1-eu.rakuten.wurl.tv/playlist.m3u8
 - Clubbing TV [ConnectionError] https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 - Commedia – Rakuten TV [ConnectionError] https://rakuten-comedymovies-6-eu.rakuten.wurl.tv/playlist.m3u8
-- Deluxe Lounge HD (1) [504] https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8
 - Documentari – Rakuten TV [ConnectionError] https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8
-- Donna TV [ConnectionError] https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 - Drammatico – Rakuten TV [ConnectionError] https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
 - Equos Tv [ConnectionError] https://dacastmmd.mmdlive.lldns.net/dacastmmd/2824fb123d5e44b797232c7abf8195da/playlist.m3u8
 - Euronews Italiano [200] https://www.youtube.com/user/euronewsit/live
@@ -80,7 +66,6 @@ Canali lasciati in lista.m3u; nessuno rimosso.
 - Humanity Documentari [ConnectionError] https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8
 - Idea Plus [ConnectionError] https://rst.saiuzwebnetwork:19360/teleidea/teleidea.m3u8
 - Italia Channel [ConnectionError] https://stream1.aswifi/italiachannel/stream/index.m3u8
-- K2 [ConnectionError] https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
 - Lucania Tv [ConnectionError] https://cdn15.streamshow/cloud-lucaniatv/lucaniatv/playlist.m3u8
 - MONDO TV KIDS [ConnectionError] https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 - Mediterranea Tv [ConnectionError] https://stream1.aswifi/mediterraneatv/live/index.m3u8
@@ -115,7 +100,6 @@ Canali lasciati in lista.m3u; nessuno rimosso.
 - TeleRadioStereo Ⓣ [200] https://www.twitch.tv/teleradiostereo
 - TeleRegione [ConnectionError] https://streaming.softwarecreation/TR118/TR118/playlist.m3u8
 - Teleroma 56 Ⓣ [200] https://www.twitch.tv/teleroma_56
-- Telesveva [ConnectionError] https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd
 - Teletubbies [ConnectionError] https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 - The Boat Show (1) [504] https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4bdea6cd-80c1-11eb-908d-533d39655269/0/master.m3u8
 - Thriller – Rakuten TV [ConnectionError] https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
@@ -135,7 +119,7 @@ Canali lasciati in lista.m3u; nessuno rimosso.
 - duckTV [ConnectionError] https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 - è Tv Rete7 [ConnectionError] https://live.ipstream/etv/etv.stream/playlist.m3u8
 
-## Non trovato (404) (31)
+## Non trovato (404) (30)
 
 - AB Channel [404] https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
 - Abc Tv [404] https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8
@@ -144,7 +128,6 @@ Canali lasciati in lista.m3u; nessuno rimosso.
 - Medjugorje Tv Puglia [404] https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8
 - Ora Tv [404] https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
 - Prima Tv Sicilia [404] https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-- Radio Roma [404] https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
 - Radio Roma Television [404] https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
 - Sicilia Tv [404] https://stream9.xdevel.com/video0s976441-1226/stream/playlist.m3u8
 - Tele Mia Extra [404] https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
