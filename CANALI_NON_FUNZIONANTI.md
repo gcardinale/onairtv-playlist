@@ -2,39 +2,29 @@
 
 Canali lasciati in lista.m3u; nessuno rimosso.
 
-## Bloccato (403/451) - probabile OK nei player (3)
+## Bloccato (403/451) - probabile OK nei player (2)
 
-- EQUtv [403] https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 - Rai Radio 2 Visual Radio [403] https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
 - Tremedia Tv [403] https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
 
-## Timeout (23)
+## Timeout (14)
 
 - Canale 74 Sicilia [ConnectTimeout] https://stream.cp.ets-sistemi.it:1936/canale74/canale74/playlist.m3u8
 - FM Tv Marche [ConnectTimeout] https://bbtv.intvstream.net:3988/hybrid/play.m3u8
 - La7cinema [ReadTimeout] https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 - Matrix Tv [ConnectTimeout] https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8
-- Medjugorje Italia Tv [ConnectTimeout] https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
-- PrimaFREE [ConnectTimeout] https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
-- RTM Manduria [ConnectTimeout] https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 - ST Europe Channel [ConnectTimeout] https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
-- Sicilia 24 Tv [ConnectTimeout] https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
-- TLT Molise [ConnectTimeout] https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 - Tele Spazio Messina [ConnectTimeout] https://rtm.cyberspazio.cloud:5443/LiveApp/streams/049229794390395765037801.m3u8
 - TeleAmbiente [ConnectTimeout] https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
 - TeleRegione Color [ConnectTimeout] https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8
 - TeleRegione Live [ConnectTimeout] https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8
 - Telecittà Padova [ConnectTimeout] https://tango.wifi4all.it/telecitta/telecitta.m3u8
-- Telenova [ConnectTimeout] https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 - Telereporter [ConnectTimeout] https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
 - Telesud Trapani [ConnectTimeout] https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8
-- Televallo Trapani [ConnectTimeout] https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
 - Uno4 Tv [ConnectTimeout] https://cdn.uno4.it/index.m3u8
-- Vintage Radio Tv [ConnectTimeout] https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 - Zerouno Tv Music [ConnectTimeout] https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-- Zerouno Tv News [ConnectTimeout] https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 
-## Host non risolvibile / connessione rifiutata / SSL (82)
+## Host non risolvibile / connessione rifiutata / SSL (81)
 
 - BBC Doctor Who [ConnectionError] https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
 - BBC Drama (1) [ConnectionError] https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
@@ -109,7 +99,6 @@ Canali lasciati in lista.m3u; nessuno rimosso.
 - Umbria+ TRT [ConnectionError] https://diretta.teleterni:8080//show/show.m3u8
 - Uno Tv [ConnectionError] https://stream1.aswifi/unotv/live/index.m3u8
 - VB33 [ConnectionError] https://live.ipstream/vb33/vb33.stream/playlist.m3u8
-- Video Calabria [ConnectionError] https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
 - Video Nola [ConnectionError] https://videonola.aswifi/videonolaabr/live.m3u8
 - Video Touring Tv [ConnectionError] https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
 - Videolina [ConnectionError] http://livestreaming.videolina/live/Videolina/playlist.m3u8
